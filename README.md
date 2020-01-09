@@ -1,6 +1,6 @@
 # Solar Powered Latern Replacement Disc
 
-![alt text](preview.jpg "Preview")
+![alt text](preview.png "Preview")
 
 
 ## Summary
